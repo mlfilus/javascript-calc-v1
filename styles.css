@@ -1,0 +1,110 @@
+#container {
+	background-color: #cce5ff;
+	width: 959px;
+	height: 1042px;
+	margin: auto;
+}
+
+#menu {
+	height: 50px;
+	width: 138px;
+	display: inline-block;
+	padding-top: 44px;
+	padding-left: 15px;
+	text-align: center;
+	 
+}
+
+#history {
+	float: right;
+	padding-top: 44px;
+	padding-right: 33px;
+
+}
+
+#memory {
+	float: right;
+	padding-top: 44px;
+	padding-right: 163px;
+}
+
+#display {
+	height: 75px;
+	width: 635px;
+	text-align: right;
+}
+
+#display p {
+	margin: auto;
+	padding-right: 28px;
+	font-weight: 100;
+	font-size: 50px;
+}
+
+.thingies {
+	display: inline-block;
+	padding-top: 108px;
+	padding-left: 35px;
+}
+
+.thingies p {
+	display: inline-block;
+	padding-right: 62px;
+}
+
+.graytext {
+	color: #d3d3d3;
+}
+
+.first {
+	width: 
+}
+
+.first li {
+	list-style-type: none;
+	display: inline-block;
+	width: 154px;
+	height: 110px;
+	background-color: #e2edff;
+
+}
+ 
+.second li {
+	list-style-type: none;
+	display: inline-block;
+	width: 154px;
+	height: 110px;
+	background-color: #e2edff;
+}
+
+.third li {
+	list-style-type: none;
+	display: inline-block;
+	width: 154px;
+	height: 110px;
+	background-color: #e2edff;
+}
+
+.fourth li {
+    list-style-type: none;
+    display: inline-block;
+    width: 154px;
+    height: 110px;
+    background-color: #e2edff;
+}
+
+.fifth li {
+	list-style-type: none;
+	display: inline-block;
+	width: 154px;
+	height: 110px;
+	background-color: #e2edff;
+}
+
+.sixth li {
+	list-style-type: none;
+	display: inline-block;
+	width: 154px;
+	height: 110px;
+	background-color: #e2edff;
+}
